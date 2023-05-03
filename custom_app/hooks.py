@@ -14,6 +14,9 @@ fixtures = [
     "Server Script",
     "Client Script",
     "Document Naming Rule",  
+    "Model",
+    "Category Detail",
+    ""
 ]
 
 
