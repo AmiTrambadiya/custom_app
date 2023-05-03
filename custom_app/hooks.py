@@ -16,7 +16,7 @@ fixtures = [
     "Document Naming Rule",  
     "Model",
     "Item Group",
-    
+    "Property Setter",
 ]
 
 
