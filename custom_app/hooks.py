@@ -15,8 +15,8 @@ fixtures = [
     "Client Script",
     "Document Naming Rule",  
     "Model",
-    "Category Detail",
-    ""
+    "Item Group",
+    
 ]
 
 
