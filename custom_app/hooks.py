@@ -7,6 +7,17 @@ app_description = "custom_app"
 app_email = "rutika"
 app_license = "MIT"
 
+
+
+fixtures = [
+    "Custom Field",
+    "Server Script",
+    "Client Script",
+    "Document Naming Rule",  
+]
+
+
+
 # Includes in <head>
 # ------------------
 
